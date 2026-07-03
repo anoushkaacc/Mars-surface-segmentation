@@ -1,5 +1,5 @@
 
-# MarsDynSeg / MarTA-Net: Attention-Based Semantic Segmentation for Martian Terrain Analysis
+MarTA-Net: Attention-Based Semantic Segmentation for Martian Terrain Analysis
 
 Reliable and automated segmentation of Martian terrain is critical for planetary exploration, rover navigation, geological analysis, and landing-site selection. However, the Martian surface presents several challenges, including highly repetitive textures, subtle terrain variations, complex geological structures, limited annotated datasets, and severe class imbalance among terrain categories. These limitations reduce the effectiveness of conventional semantic segmentation models in identifying safe and scientifically relevant rover landing regions.
 
